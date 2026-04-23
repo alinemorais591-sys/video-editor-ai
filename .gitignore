@@ -1,0 +1,13 @@
+node_modules/
+dist/
+.env
+.env.local
+.env.*.local
+temp/
+outputs/
+*.db
+.DS_Store
+.vscode/
+.idea/
+*.log
+*.pid
